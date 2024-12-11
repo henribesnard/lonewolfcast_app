@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "43535381119",
+    "firebase_url": "https://lonewolfbet-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lonewolfbet",
+    "storage_bucket": "lonewolfbet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43535381119:android:78bc1def2430787e50854a",
+        "android_client_info": {
+          "package_name": "com.lonewolfcast.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXR_6gD1_ljUyjiHJ6bRnwBa5LWP-bm4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43535381119:android:fa2b1f3e1eca2a9050854a",
+        "android_client_info": {
+          "package_name": "com.lonewolfcast.appflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXR_6gD1_ljUyjiHJ6bRnwBa5LWP-bm4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
